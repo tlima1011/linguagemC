@@ -10,6 +10,6 @@ int main()
             printf("%d ", i);
         }
     }
-
+    getch();
     return 0;
 }
